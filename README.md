@@ -1,7 +1,7 @@
 # Awesome Free Online Debugging Tools [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 A curated list of **free, no-signup** tools you can use **in the browser** to debug code, APIs, logs, and web apps.
-PRs welcome – see **Contributing**.
+> Related: **[Toolfyra](https://toolfyra.com)** — free client-side developer utilities (JSON formatter, regex tester, Base64, JWT decoder, cron parser) that run fully in your browser. PRs welcome – see **Contributing**.
 
 ---
 
